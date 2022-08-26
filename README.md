@@ -1,3 +1,3 @@
-# myrepo
+# STAT-300 Repo
 Repository for testing my Git/GitHub setup
 A line I wrote on my local computer  
